@@ -1,4 +1,4 @@
-var redirect_uri = "http://127.0.0.1:5500/index.html";
+var redirect_uri = "https://kaze212.github.io/Soundara-/";
 
 var client_id = ""; 
 var client_secret = ""; // In a real app you should not expose your client_secret to the user

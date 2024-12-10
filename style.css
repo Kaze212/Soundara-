@@ -1,0 +1,36 @@
+*{
+    background color : #CCCCFF;
+	font-family: "Courier", monospace;
+}
+
+.container{
+    color: #00FFFF;
+    padding: 20px;    
+    background-color: #78bc61ff;
+}
+
+#tokenSection{
+    display: none;
+}
+
+#deviceSection{
+    display: none;
+}
+
+#albumImage{
+    width: 300px;
+    float: left;
+    margin: 20px;
+}
+
+#trackTitle{
+    font-size:3em;
+}
+
+#trackArtist{
+    font-size:2em;
+}
+
+.welcomeText{
+    font-size:2em;
+}

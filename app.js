@@ -1,7 +1,7 @@
 var redirect_uri = "https://kaze212.github.io/Soundara-/";
 
-var client_id = "86f2566c02af41b38f7d4c87269e4062"; 
-var client_secret = "08520519009c45048ec394a83152d264"; // In a real app you should not expose your client_secret to the user
+var client_id = ""; 
+var client_secret = ""; // In a real app you should not expose your client_secret to the user
 
 var access_token = null;
 var refresh_token = null;
